@@ -1,0 +1,22 @@
+{
+  "name": "yourstudyguide",
+  "version": "0.0.1",
+  "description": "your study guide :)",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manny-pi/YourStudyGuide.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manny-pi/YourStudyGuide/issues"
+  },
+  "homepage": "https://github.com/manny-pi/YourStudyGuide#readme",
+  "devDependencies": {
+    "electron": "^34.2.0"
+  }
+}
